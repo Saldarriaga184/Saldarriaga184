@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-## ¡Hola! 😸 Bienvenido(a) te presento mí Perfil ✨
+## ¡Te presento mí Perfil ✨
+### ***Compositor Trap Ecuatoriano🇪🇨🔥***
 ### ***Espero te encuentres bien 🌸***
 
 <p align="center"><img title="𝘿.𝙀.𝙎.𝙉-𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇17" src="https://78.media.tumblr.com/10275a23919ec5643d8cec044cb76df4/tumblr_p3izpzoiyu1vkfsowo1_400.gif"></p>
