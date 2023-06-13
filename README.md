@@ -1,4 +1,4 @@
-[1686625107510780377370931015622.jpg](https://github.com/Saldarriaga184/Saldarriaga184/assets/131302001/8a92c764-d42b-4697-aa84-51400403cbd7)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 
